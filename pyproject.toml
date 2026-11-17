@@ -7,7 +7,7 @@ name = "logsentinel"
 version = "1.0.0"
 description = "Detect brute force and web attacks in SSH and Apache/Nginx logs"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 dependencies = []
 

@@ -56,7 +56,7 @@ Where to find the logs on a server:
 
 ## Requirements
 
-- **Python 3.9 or newer**
+- **Python 3.10 or newer**
 - No external libraries.
 - `sudo` to read files in `/var/log` (or copy them first).
 
